@@ -31,3 +31,22 @@ In Azure navigate to or search for resource groups and select "Create". For Reso
 
 <h2>3. Creating a Windows 10 Virtual Maching</h2>
 
+<img width="1864" height="875" alt="image" src="https://github.com/user-attachments/assets/9decf61c-2536-493c-a88f-7da5e9c9ff5d" />
+
+Navigate to or search for Virtual Machines (VMs) and click on "Create". 
+
+<img width="951" height="869" alt="image" src="https://github.com/user-attachments/assets/c9ab7867-2aef-4774-a7e0-2d5123d6a43b" />
+<img width="799" height="384" alt="image" src="https://github.com/user-attachments/assets/6104dbe1-4514-4447-8bb6-210b881b569b" />
+
+In Virtual Machine creation make sure the following details are selected:
+   - Resource Group: "RG-Chatty"
+   - Virtual Machine Name: "Windows-VM" (Can be something different if you want)
+   - Image: Windows 10 Enterprise, version 22H2 -  x64 Gen2
+   - Size: Standard_L2as_v4 - 2 vcpus, 16 GiB memory
+   - Administrator Account:
+       Username: labuser
+       Password: Cyberlab123!
+
+<img width="1874" height="873" alt="image" src="https://github.com/user-attachments/assets/fc07fbf5-1e44-44a4-9c62-b73e940e7c86" />
+
+Navigate to the Networking tab of the Virtual Machine. Create a new Virtual network. I named mine "Lab-Vnet"
