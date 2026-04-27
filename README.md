@@ -18,11 +18,11 @@ This tutorial creates the Azure resources for this project. This setup involves 
 
 ---
 
-<h2>**1. Access Azure Portal**</h2>
+<h2>1. Access Azure Portal</h2>
 
 Sign in to Azure to start creating resources. 
 
-**2. Creating a Resource Group**
+<h2>2. Creating a Resource Group</h2>
 
 <img width="1876" height="924" alt="image" src="https://github.com/user-attachments/assets/74c04b55-8b4e-4667-abc2-a735d8b7ea0d" />
 <img width="815" height="469" alt="image" src="https://github.com/user-attachments/assets/f4955556-fd7d-4047-8720-efcb9141c90b" />
