@@ -18,7 +18,7 @@ This tutorial creates the Azure resources for this project. This setup involves 
 
 ---
 
-**1. Access Azure Portal**
+<h2>**1. Access Azure Portal**</h2>
 
 Sign in to Azure to start creating resources. 
 
