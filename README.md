@@ -29,3 +29,5 @@ Sign in to Azure to start creating resources.
 
 In Azure navigate to or search for resource groups and select "Create". For Resource Group configuration you need a name and a region. I named the group "RG-Chatty" and selected the region "West US 2". Click on "Review + Create" then "Create". 
 
+<h2>3. Creating a Windows 10 Virtual Maching</h2>
+
